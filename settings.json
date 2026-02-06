@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "AFKBot2", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "thelegendary-SawB.aternos.me", 
+    "port": 30395,   
     "version": "1.12.1"   
   },
 
